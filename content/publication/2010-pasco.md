@@ -1,0 +1,29 @@
++++
+abstract = "This paper presents a complete modular approach to computing bivariate polynomial resultants on Graphics Processing Units (GPU). Given two polynomials, the algorithm first maps them to a prime field for sufficiently many primes, and then processes each modular image individually. We evaluate each polynomial at several points and compute a set of univariate resultants for each prime in parallel on the GPU. The remaining 'combine' stage of the algorithm comprising polynomial interpolation and Chinese remaindering is also executed on the graphics processor. The GPU algorithm returns coefficients of the resultant as a set of Mixed Radix (MR) digits. Finally, the large integer coefficients are recovered from the MR representation on the host machine. With the approach of displacement structure [16] and efficient modular arithmetic [8] we have been able to achieve more than 100x speed-up over a CPU-based resultant algorithm from Maple 13."
+
+authors = ["Pavel Emeliyanenko"]
+date = "2010-07-21"
+image_preview = ""
+math = true
+publication_types = ["1"]
+publication = "In PASCO"
+publication_short = ""
+selected = true
+title = "A complete modular resultant algorithm targeted for realization on graphics hardware"
+url_code = ""
+url_dataset = ""
+url_pdf = "pdf/pasco_2010.pdf"
+url_project = ""
+url_slides = ""
+url_video = ""
+
+[[url_custom]]
+name = "View Conference Article"
+url = "https://dl.acm.org/citation.cfm?id=1837219"
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = ""
+
++++
