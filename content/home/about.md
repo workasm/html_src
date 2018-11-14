@@ -10,10 +10,11 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Algorithm Engineering / Optimization",
     "Image Processing / OpenCV",
 	"Computer Graphics",
-    "Parallel Computing / GPGPU",
-	"Software Engineering",
+    "Parallel Computing / CUDA",
+	"Software Development / C++(14)",
     "Algebraic Geometry"
   ]
 
@@ -26,7 +27,7 @@ weight = 5
 [[education.courses]]
   course = "MSc in Computer Science"
   institution = "Max-Planck Institute for Informatics, Saarbrücken, Germany"
-  year = 2006
+  year = 2007
 
 [[education.courses]]
   course = "BSc in Computer Science"
@@ -37,5 +38,7 @@ weight = 5
 
 # Biography
 
-I am a C++ Software Engineer at Precitec Optronik GmbH. Currently I work on EyeTracker project: tracking the position of human's eye in 6 dimensions (3D position + 3D rotation) used by laser refractive eye surgery. 
+I am a C++ Software Engineer at Precitec Optronik GmbH, Germany. My prime interests are C++ algorithms engineering, optimization and parallelization techniques. During my professional career I was involved in software projects from different areas including computational geometry, computer graphics, embedded navigation and routing, network traffic optimization and video streaming, image processing.
+
+Currently I work in EyeTracker project: real-time tracking a human eye position in 6 dimensions (3D position + 3D rotation) used for laser refractive eye surgery. 
 
