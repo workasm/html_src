@@ -17,9 +17,7 @@ url_project = "http://exacus.mpi-inf.mpg.de/"
 url_slides = ""
 url_video = "https://www.youtube.com/watch?v=NVJYQLag0EQ"
 
-[[url_custom]]
-name = "View Conference Article"
-url = "http://dx.doi.org/10.1145/1377676.1377714"
+links = [{name = "Conference Article", url = "http://dx.doi.org/10.1145/1377676.1377714"}]
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

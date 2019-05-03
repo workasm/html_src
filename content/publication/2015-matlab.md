@@ -17,13 +17,6 @@ url_project = ""
 url_slides = ""
 url_video = ""
 
-[[url_custom]]
-name = "View Book on Amazon"
-url = "https://www.amazon.com/Accelerating-MATLAB-Performance-speed-programs/dp/1482211297"
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
+links = [{name = "View Book on Amazon", url = "https://www.amazon.com/Accelerating-MATLAB-Performance-speed-programs/dp/1482211297"}]
 
 +++

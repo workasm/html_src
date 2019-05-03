@@ -1,0 +1,23 @@
+
+.container {
+    width: 80% !important;
+}
+
+.article-container {
+  max-width: 70% !important;
+  padding: 0 20px 0 20px;
+  margin: 0 auto 0 auto;
+}
+
+/* this controls positioning and size of logo images */
+.article-header {
+  /*position: absolute;*/
+  width: 100%;
+  text-align: center;
+}
+/* this controls positioning and size of logo images */
+.article-banner {
+  width: 50%;
+  height: auto;
+  text-align: center;
+}

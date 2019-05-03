@@ -17,13 +17,6 @@ url_project = ""
 url_slides = ""
 url_video = ""
 
-[[url_custom]]
-name = "View Conference Article"
-url = "https://dl.acm.org/citation.cfm?id=2790252"
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
+links = [{name = "Conference Article", url = "https://dl.acm.org/citation.cfm?id=2790252"}]
 
 +++

@@ -2,6 +2,8 @@
 # Project title.
 title = "CGAL's Polynomial Parser"
 math = true
+share = false
+profile = false
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
@@ -22,7 +24,7 @@ external_link = ""
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "example-slides"
+#slides = "example-slides"
 
 # Links (optional).
 url_pdf = ""
@@ -36,16 +38,16 @@ url_code = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+#[image]
   # Caption (optional)
-  caption = "Photo by rawpixel on Unsplash"
+  #caption = "The Computational Geometry Algorithms Library"
 #  Focal point (optional)
 #   Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Bottom"
+#  focal_point = "Center"
 
 [header]
   image = "cgal_logo.png"
- # caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
+  #caption = "The Computational Geometry Algorithms Library"
 +++
 
 Here is the multivariate polynomial parser developed as part of [CGAL](https://www.cgal.org/ "The Computational Geometry Algorithms Library")
