@@ -52,8 +52,7 @@ url_code = ""
 +++
 
 This project presents a set of curves rendered on the surface of a Dupin Cyclide. It was done together with my colleges from the [Max-Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/algorithms-complexity).
-My part was essentially the rendering of plane algebraic curces (based on my Masters's thesis) and OpenGL rendering of the surfaces. The rendered Dupin Cyclides looked so cool that they were printed in the MPII calendar
-and also became the logo of the Algorithm and Complexity group. See also the [publication list](#publication-list) below.
+My part was essentially the rendering of plane algebraic curces (based on my Masters's thesis) and OpenGL rendering of the surfaces. The rendered Dupin Cyclides looked so much cool that they were printed in the MPII calendar and also became a permanent logo of the "Algorithms and Complexity" research group. See also the [publication list](#publication-list) below.
 
 {{< gallery album="images" >}}
 
