@@ -13,7 +13,7 @@ role = "C++ Software Engineer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Precitec Optronik GmbH", url = "https://www.precitec.de" },
+organizations = [ { name = "Advanced Micro Devices", url = "https://www.amd.com" },
 				  { name = "Max Planck Institute for Informatics", url = "https://www.mpi-inf.mpg.de/departments/algorithms-complexity/" } ]
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,8 +27,8 @@ email = ""
     "Algorithm Engineering / Optimization",
     "Image Processing / OpenCV",
 	"Computer Graphics",
-    "Parallel Computing / CUDA",
-	"Software Development / C++(14)",
+    "Parallel Computing / HIP / CUDA",
+	"Software Development / C++(17)",
     "Algebraic Geometry"
   ]
 
@@ -65,7 +65,7 @@ user_groups = []
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/workasm"
+  link = "https://github.com/pemeliya"
   
 [[social]]
   icon = "linkedin"
@@ -81,6 +81,7 @@ user_groups = []
 
 +++
 
-I am a C++ Software Engineer at Precitec Optronik GmbH, Germany. My prime interests are C++ algorithms engineering, optimization and parallelization techniques. During my professional career I was involved in software projects from different areas including computational geometry, computer graphics, embedded navigation and routing, network traffic optimization and video streaming, image processing.
+I am SMTS Software Engineer at AMD. My prime interests are C++ software development and GPU programming.
 
-Currently I work in EyeTracker project: real-time tracking a human eye position in 6 dimensions (3D position + 3D rotation) used for laser refractive eye surgery. 
+
+

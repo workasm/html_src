@@ -18,15 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "SMTS Software Engineer <img src=\"/img/AMD.png\" style=\"width:4em; height:auto;\">"
+  company = "Advanced Micro Devices GmbH"
+  company_url = "https://www.amd.com/"
+  location = "Home-Office, Munich, Germany"
+  date_start = "2023-08-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+
+  * TensorFlow / OpenXLA / JAX
+  * C++ software engineering
+  * Training / Inference optimization on AMD GPU hardware
+  * Multi-GPU collective communication
+  """
+
+[[experience]]
   title = "Software Engineer ![](/img/precitec2.png)"
   company = "Precitec Optronik GmbH"
   company_url = "https://www.precitec.de/"
   location = "Neu Isenburg, Germany"
   date_start = "2016-02-01"
-  date_end = ""
+  date_end = "2023-07-31"
   description = """
-  Responsibilities include:
-
   * developing image processing algorithms (OpenCV / GPU / x86 SIMD)
   * C++ software engineering
   * algorithms parallelization and optimization for target platform
